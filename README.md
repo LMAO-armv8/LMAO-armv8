@@ -18,21 +18,12 @@ Here are some ideas to get you started:
 Just i wanna remember the guys who taught me to work hard
 
 - @Yilliee
-
 - @soulr344
-
 - @hendramanudinata03
-
 - @Linux4
-
 - @aswin11234
-
 - @el0xren
-
 - @neel0210
-
 - @alaskalinuxuser
-
 - @EngMoPro
-
 - @santhosh6194
