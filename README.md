@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**LMAO-armv8/LMAO-armv8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**LMAO-armv8/LMAO-armv8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 
 - 🔭 I’m currently working on Android Devlopment (still basics)
 - 🌱 I’m currently learning about my lyf
