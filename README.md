@@ -24,6 +24,9 @@ Just i wanna remember the guys who taught me to work hard
 - @alaskalinuxuser
 - @EngMoPro
 - @santhosh6194
+- @Dark-Matter7232
+- @topser9
+- @cyberknight777
 
 [![LMAO-armv8's GitHub stats](https://github-readme-stats.vercel.app/api?username=LMAO-armv8)](https://github.com/anuraghazra/github-readme-stats)
 
