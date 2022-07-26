@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**LMAO-armv8/LMAO-armv8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
+A special repo to learn about me
 
 - 🔭 I’m currently working on Android Devlopment (still basics)
 - 🌱 I’m currently learning about my lyf
@@ -13,6 +13,7 @@
 
 Just i wanna remember the guys who taught me to work hard
 
+- @4-alok
 - @Yilliee
 - @soulr344
 - @hendramanudinata03
