@@ -2,13 +2,13 @@
 
 A special repo to learn about me
 
-- 🔭 I’m currently working on Android Devlopment (still basics)
+- 🔭 I’m currently working as a Frontend Dev and Android Dev (still basics)
 - 🌱 I’m currently learning about my lyf
 - 👯 I’m looking to collaborate on android
 - 🤔 I’m looking for help with my doubts
 - 💬 Ask me about nothing
 - 📫 How to reach me: just mail me lol chaitanya4g9@sasi.ac.in
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him/his
 - ⚡ Fun fact: ... nothing 
 
 Just i wanna remember the guys who taught me to work hard
